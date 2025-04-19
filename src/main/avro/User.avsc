@@ -1,0 +1,15 @@
+{
+  "type": "record",
+  "namespace": "org.roy.kafkags.schemas",
+  "name": "User",
+    "fields": [
+        {
+          "name": "id",
+          "type": "string"
+        },
+        {
+        "name": "Name",
+        "type": "string"
+        }
+    ]
+}
